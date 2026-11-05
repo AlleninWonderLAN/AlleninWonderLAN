@@ -2,13 +2,12 @@
 
 **Security Auditor | Former Incident Responder | Encryption Specialist**
 
-Cybersecurity professional with a master's in cybersecurity and a background spanning
-IT audit, incident response, and applied cryptography. I build hands-on projects that
+Multidisciplinary cybersecurity professional with expertise in incident response, security engineering, cryptography, malware analysis, offensive security, cyber resilience, and IT audit/GRC, with interests in AI-driven security research. I build hands-on projects that
 demonstrate practical security skills across multiple domains. 💖
 
 - 💻 Currently: IT Auditor, previously in Incident Response
-- 🎓 M.S. in Cybersecurity
-- 🔐 Certifications: ECES (Certified Encryption Specialist), SSCP, Security+, Network+; CISSP in progress
+- 🎓 M.S. in Cybersecurity, B.S. in Cybersecurity
+- 🔐 Certifications: ECES (Certified Encryption Specialist), SSCP, Security+, Network+; + more 
 - 🌈 Building a security portfolio across malware analysis, cloud compliance, cryptography, DR/BCP, and networking
 
 ### Focus areas 💜
