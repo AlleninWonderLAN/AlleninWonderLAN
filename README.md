@@ -15,11 +15,11 @@ demonstrate practical security skills across multiple domains. 💖
 
 | Domain | Project |
 |---|---|
-| Incident Response / Malware Analysis | [malware-analysis-lab](https://github.com/AlleninWonderLan/malware-analysis-lab) |
-| Audit / GRC | [cloud-compliance-auditor](https://github.com/AlleninWonderLan/cloud-compliance-auditor) |
-| Cryptography | [aes-cache-timing](https://github.com/AlleninWonderLan/aes-cache-timing) |
-| DR / BCP | [dr-bcp-toolkit](https://github.com/AlleninWonderLan/dr-bcp-toolkit) |
-| Networking | [network-segmentation-lab](https://github.com/AlleninWonderLan/network-segmentation-lab) |
+| Incident Response / Malware Analysis | [malware-analysis-lab]|
+| Audit / GRC | [cloud-compliance-auditor]|
+| Cryptography | [aes-cache-timing] |
+| DR / BCP | [dr-bcp-toolkit] |
+| Networking | [network-segmentation-lab] |
 
 ✨ Portfolio: https://alleninwonderlan.github.io
 💕 Open to collaboration
