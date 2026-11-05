@@ -1,16 +1,25 @@
-## Hi there 👋
+## Kaschia Allen 🦄✨
 
-<!--
-**AlleninWonderLAN/AlleninWonderLAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Security Auditor | Former Incident Responder | Encryption Specialist**
 
-Here are some ideas to get you started:
+Cybersecurity professional with a master's in cybersecurity and a background spanning
+IT audit, incident response, and applied cryptography. I build hands-on projects that
+demonstrate practical security skills across multiple domains. 💖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Currently: IT Auditor, previously in Incident Response
+- 🎓 M.S. in Cybersecurity
+- 🔐 Certifications: ECES (Certified Encryption Specialist), SSCP, Security+, Network+; CISSP in progress
+- 🌈 Building a security portfolio across malware analysis, cloud compliance, cryptography, DR/BCP, and networking
+
+### Focus areas 💜
+
+| Domain | Project |
+|---|---|
+| Incident Response / Malware Analysis | [malware-analysis-lab](https://github.com/AlleninWonderLan/malware-analysis-lab) |
+| Audit / GRC | [cloud-compliance-auditor](https://github.com/AlleninWonderLan/cloud-compliance-auditor) |
+| Cryptography | [aes-cache-timing](https://github.com/AlleninWonderLan/aes-cache-timing) |
+| DR / BCP | [dr-bcp-toolkit](https://github.com/AlleninWonderLan/dr-bcp-toolkit) |
+| Networking | [network-segmentation-lab](https://github.com/AlleninWonderLan/network-segmentation-lab) |
+
+✨ Portfolio: https://alleninwonderlan.github.io
+💕 Open to collaboration
